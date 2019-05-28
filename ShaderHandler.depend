@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1559020574 source:c:\users\naji\desktop\shaderhandler\main.cpp
+	<ShaderHandler.h>
+	<iostream>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1538421232 c:\users\naji\desktop\shaderhandler\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1559018808 source:c:\users\naji\desktop\shaderhandler\src\shaderhandler.cpp
+	"ShaderHandler.h"
+
+1559018781 c:\users\naji\desktop\shaderhandler\include\shaderhandler.h
+	<GL/glew.h>
+	<fstream>
+	<iostream>
+	<string>
+	<glm/vec2.hpp>
+	<glm/vec3.hpp>
+
+1553279720 c:\users\naji\desktop\shaderhandler\common\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1557795861 c:\users\naji\desktop\shaderhandler\common\glm\vec2.hpp
+	"./ext/vector_bool2.hpp"
+	"./ext/vector_bool2_precision.hpp"
+	"./ext/vector_float2.hpp"
+	"./ext/vector_float2_precision.hpp"
+	"./ext/vector_double2.hpp"
+	"./ext/vector_double2_precision.hpp"
+	"./ext/vector_int2.hpp"
+	"./ext/vector_int2_precision.hpp"
+	"./ext/vector_uint2.hpp"
+	"./ext/vector_uint2_precision.hpp"
+
+1557795863 c:\users\naji\desktop\shaderhandler\common\glm\ext\vector_bool2.hpp
+	"../detail/type_vec2.hpp"
+
+1557795862 c:\users\naji\desktop\shaderhandler\common\glm\detail\type_vec2.hpp
+	"qualifier.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1557795861 c:\users\naji\desktop\shaderhandler\common\glm\detail\qualifier.hpp
+	"setup.hpp"
+
+1557795861 c:\users\naji\desktop\shaderhandler\common\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	"../simd/platform.h"
+	<cstdint>
+	<type_traits>
+
+1557795866 c:\users\naji\desktop\shaderhandler\common\glm\simd\platform.h
+	<cuda.h>
+	<immintrin.h>
+	<immintrin.h>
+	<popcntintrin.h>
+	<nmmintrin.h>
+	<smmintrin.h>
+	<tmmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1557795861 c:\users\naji\desktop\shaderhandler\common\glm\detail\_swizzle.hpp
+
+1557795861 c:\users\naji\desktop\shaderhandler\common\glm\detail\_swizzle_func.hpp
+
+1557795862 c:\users\naji\desktop\shaderhandler\common\glm\detail\type_vec2.inl
+	"./compute_vector_relational.hpp"
+
+1557795861 c:\users\naji\desktop\shaderhandler\common\glm\detail\compute_vector_relational.hpp
+	"setup.hpp"
+	<limits>
+
+1557795863 c:\users\naji\desktop\shaderhandler\common\glm\ext\vector_bool2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1557795863 c:\users\naji\desktop\shaderhandler\common\glm\ext\vector_float2.hpp
+	"../detail/type_vec2.hpp"
+
+1557795863 c:\users\naji\desktop\shaderhandler\common\glm\ext\vector_float2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1557795863 c:\users\naji\desktop\shaderhandler\common\glm\ext\vector_double2.hpp
+	"../detail/type_vec2.hpp"
+
+1557795863 c:\users\naji\desktop\shaderhandler\common\glm\ext\vector_double2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1557795863 c:\users\naji\desktop\shaderhandler\common\glm\ext\vector_int2.hpp
+	"../detail/type_vec2.hpp"
+
+1557795863 c:\users\naji\desktop\shaderhandler\common\glm\ext\vector_int2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1557795863 c:\users\naji\desktop\shaderhandler\common\glm\ext\vector_uint2.hpp
+	"../detail/type_vec2.hpp"
+
+1557795863 c:\users\naji\desktop\shaderhandler\common\glm\ext\vector_uint2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1557795861 c:\users\naji\desktop\shaderhandler\common\glm\vec3.hpp
+	"./ext/vector_bool3.hpp"
+	"./ext/vector_bool3_precision.hpp"
+	"./ext/vector_float3.hpp"
+	"./ext/vector_float3_precision.hpp"
+	"./ext/vector_double3.hpp"
+	"./ext/vector_double3_precision.hpp"
+	"./ext/vector_int3.hpp"
+	"./ext/vector_int3_precision.hpp"
+	"./ext/vector_uint3.hpp"
+	"./ext/vector_uint3_precision.hpp"
+
+1557795863 c:\users\naji\desktop\shaderhandler\common\glm\ext\vector_bool3.hpp
+	"../detail/type_vec3.hpp"
+
+1557795862 c:\users\naji\desktop\shaderhandler\common\glm\detail\type_vec3.hpp
+	"qualifier.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1557795862 c:\users\naji\desktop\shaderhandler\common\glm\detail\type_vec3.inl
+	"compute_vector_relational.hpp"
+
+1557795863 c:\users\naji\desktop\shaderhandler\common\glm\ext\vector_bool3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1557795863 c:\users\naji\desktop\shaderhandler\common\glm\ext\vector_float3.hpp
+	"../detail/type_vec3.hpp"
+
+1557795863 c:\users\naji\desktop\shaderhandler\common\glm\ext\vector_float3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1557795863 c:\users\naji\desktop\shaderhandler\common\glm\ext\vector_double3.hpp
+	"../detail/type_vec3.hpp"
+
+1557795863 c:\users\naji\desktop\shaderhandler\common\glm\ext\vector_double3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1557795863 c:\users\naji\desktop\shaderhandler\common\glm\ext\vector_int3.hpp
+	"../detail/type_vec3.hpp"
+
+1557795863 c:\users\naji\desktop\shaderhandler\common\glm\ext\vector_int3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1557795863 c:\users\naji\desktop\shaderhandler\common\glm\ext\vector_uint3.hpp
+	"../detail/type_vec3.hpp"
+
+1557795863 c:\users\naji\desktop\shaderhandler\common\glm\ext\vector_uint3_precision.hpp
+	"../detail/type_vec3.hpp"
+
